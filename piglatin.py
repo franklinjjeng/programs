@@ -1,3 +1,4 @@
+#!/usr/bin/env python2.7
 word_list = []
 valid_word = False
 index = -1
